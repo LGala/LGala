@@ -1,6 +1,4 @@
-<a href="https://en.wikiquote.org/wiki/Simplicity"><img alt="Qries" src="https://wallpaperaccess.com/full/2191305.jpg" width=150" height="70></a>
-        
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)        
+[![](https://wallpaperaccess.com/full/2191305.jpg)](ttps://en.wikiquote.org/wiki/Simplicity)        
         
 <h4>Me</h4>
 
