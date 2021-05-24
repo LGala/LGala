@@ -1,6 +1,6 @@
-[![Foo](https://wallpaperaccess.com/full/2191305.jpg)](ttps://en.wikiquote.org/wiki/Simplicity)        
+[![](https://wallpaperaccess.com/full/2191305.jpg)](https://en.wikiquote.org/wiki/Simplicity)        
         
-<h4>Me</h4>
+<h3>Me:</h3>
 
 * 💼   Scrum fullStack developer at [mondora](https://github.com/mondora)
 * 🎓   Graduating in Computer Science at University of Parma (Bachelor of Science)
