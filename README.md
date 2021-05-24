@@ -1,7 +1,7 @@
 # 👋
 
-![test](https://wallpaperaccess.com/full/2191305.jpg)
-
+<a href="https://en.wikiquote.org/wiki/Simplicity"><img alt="Qries" src="https://wallpaperaccess.com/full/2191305.jpg" width=150" height="70">
+        
 <h4>Me</h4>
 
 * 💼   Scrum fullStack developer at [mondora](https://github.com/mondora).
