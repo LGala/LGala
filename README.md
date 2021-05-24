@@ -1,4 +1,4 @@
-[![](https://wallpaperaccess.com/full/2191305.jpg)](ttps://en.wikiquote.org/wiki/Simplicity)        
+[![Foo](https://wallpaperaccess.com/full/2191305.jpg)](ttps://en.wikiquote.org/wiki/Simplicity)        
         
 <h4>Me</h4>
 
