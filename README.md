@@ -1,6 +1,6 @@
 # 👋
 
-<a href="https://en.wikiquote.org/wiki/Simplicity"><img alt="Qries" src="https://wallpaperaccess.com/full/2191305.jpg" width=150" height="70">
+<a href="https://en.wikiquote.org/wiki/Simplicity"><img alt="Qries" src="https://wallpaperaccess.com/full/2191305.jpg" width=150" height="70></a>
         
 <h4>Me</h4>
 
