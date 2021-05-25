@@ -1,4 +1,4 @@
-[![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftherestudio.com%2Fthe-complexity-of-simplicity-design-process%2F&psig=AOvVaw0fR9VnKqEQK24mJgtHog8L&ust=1622029866718000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjVkNDi5PACFQAAAAAdAAAAABAz)](https://en.wikiquote.org/wiki/Simplicity)        
+[![](https://i.pinimg.com/originals/9b/7a/9f/9b7a9f03a571f03185f83083b681b033.gif)](https://en.wikiquote.org/wiki/Simplicity)        
         
 <h3>Me:</h3>
 
