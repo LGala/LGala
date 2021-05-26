@@ -1,5 +1,5 @@
-![](https://i.pinimg.com/originals/9b/7a/9f/9b7a9f03a571f03185f83083b681b033.gif =250x250)        
-        
+<img src="https://i.pinimg.com/originals/9b/7a/9f/9b7a9f03a571f03185f83083b681b033.gif" alt="alt text" width="500" height="500">
+
 <h3>Me:</h3>
 
 * 💼   Scrum Fullstack Developer & Green software researcher at [mondora](https://github.com/mondora)
