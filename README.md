@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/9b/7a/9f/9b7a9f03a571f03185f83083b681b033.gif" alt="alt text" width="1000" height="500">
+<img src="https://i.pinimg.com/originals/9b/7a/9f/9b7a9f03a571f03185f83083b681b033.gif" alt="alt text">
 
 <h3>Me:</h3>
 
