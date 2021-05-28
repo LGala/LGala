@@ -2,8 +2,8 @@
 
 <h3>Me:</h3>
 
-* 💼  &nbsp; Scrum Fullstack Developer & Green software researcher at [mondora](https://github.com/mondora)
-* 🎓  ➡️  Graduating in Computer Science at University of Parma (Bachelor of Science)
-* 🧐  ➡️  Interested in my Girlfriend, Agile, Functional Programming, Web Development
-* 🍀  ➡️  Believe in Sociocracy, Simplicity and make software for People
-* ✍🏻  ➡️  Socials: [linkedin](https://www.linkedin.com/in/lorenzogalafassi/)
+* 💼    &nbsp;   Scrum Fullstack Developer & Green software researcher at [mondora](https://github.com/mondora)
+* 🎓    &nbsp;   Graduating in Computer Science at University of Parma (Bachelor of Science)
+* 🧐    &nbsp;   Interested in my Girlfriend, Agile, Functional Programming, Web Development
+* 🍀    &nbsp;   Believe in Sociocracy, Simplicity and make software for People
+* ✍🏻    &nbsp;   Socials: [linkedin](https://www.linkedin.com/in/lorenzogalafassi/)
