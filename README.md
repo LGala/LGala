@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center"><i>Can't stop coding</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgala&label=Profile%20views&color=0e75b6&style=flat" alt="lgala" /> </p>
 
@@ -7,7 +6,7 @@
 
 * 🎓    &nbsp;   Graduated in Computer Science at University of Parma (Bachelor of Science)
 
-* 🧐    &nbsp;  Interested in my Girlfriend, Agile (the real one), Functional Programming, Cloud
+* 🧐    &nbsp;   Interested in everything that's Javascript, Agile (the real one), Functional Programming, Cloud
 
 
 <h3 align="left">Connect with me:</h3>
