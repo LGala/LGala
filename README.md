@@ -6,8 +6,6 @@
 
 * 🎓    &nbsp;   Graduated in Computer Science at University of Parma (Bachelor of Science)
 
-* 🧐    &nbsp;   Interested in everything that's Javascript, Agile (the real one), Functional Programming, Cloud
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
