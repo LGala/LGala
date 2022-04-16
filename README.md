@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgala&label=Profile%20views&color=0e75b6&style=flat" alt="lgala" /> </p>
 
-* 💼    &nbsp;   Scrum Fullstack Developer & Green software researcher at [mondora](https://github.com/mondora)
+* 💼    &nbsp;   Junior Software Engineer at [Scalapay](https://www.linkedin.com/company/scalapay/?originalSubdomain=it)
 
 * 🎓    &nbsp;   Graduated in Computer Science at University of Parma (Bachelor of Science)
 
