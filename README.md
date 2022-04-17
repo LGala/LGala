@@ -4,7 +4,7 @@
 
 * 💼    &nbsp;   Junior Software Engineer at [Scalapay](https://www.linkedin.com/company/scalapay/?originalSubdomain=it)
 
-* 🎓    &nbsp;   Graduated in Computer Science at University of Parma (Bachelor of Science)
+* 🎓    &nbsp;   BSc in in Computer Science at University of Parma
 
 * 🤔    &nbsp;   Interested in cloud and JavaScript/TypeScript world
 
