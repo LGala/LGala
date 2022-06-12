@@ -6,14 +6,9 @@
 
 * 🎓    &nbsp;   BSc in in Computer Science at University of Parma
 
-* 🤔    &nbsp;   Interested in cloud and JavaScript/TypeScript world
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lorenzogalafassi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lorenzogalafassi/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12126216/lgala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12126216/lgala" height="30" width="40" /></a>
-<a href="https://medium.com/@galafassilorenzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@galafassilorenzo" height="30" width="40" /></a>
-<a href="https://it.quora.com/profile/Lorenzo-Galafassi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="@galafassilorenzo" height="30" width="40" /></a>  
 </p>
 
 
