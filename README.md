@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgala&label=Profile%20views&color=0e75b6&style=flat" alt="lgala" /> </p></h1> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=d&size=100&color=F7C2EC&center=true&lines=Hi+there!)](https://git.io/typing-svg)
+
 <h3 align="left">About me</h3>
 
 * 💼    &nbsp;   Junior Software Engineer at [Scalapay](https://www.linkedin.com/company/scalapay/?originalSubdomain=it)
