@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lgala&label=Profile%20views&color=0e75b6&style=flat" alt="lgala" /> </p>
 
+<h3 align="left">About me</h3>
+
 * 💼    &nbsp;   Junior Software Engineer at [Scalapay](https://www.linkedin.com/company/scalapay/?originalSubdomain=it)
 
 * 🎓    &nbsp;   BSc in in Computer Science at University of Parma
