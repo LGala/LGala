@@ -4,7 +4,7 @@
 
 <img src='octo.gif' width='15%'>
 
-<img alt="GIF" src="working.gif" width="25" /> &nbsp; Working as Software Engineer [@Scalapay](https://www.scalapay.com/)<br>
+<img alt="GIF" src="working.gif" width="25" /> &nbsp; Working as a Software Engineer [@Scalapay](https://www.scalapay.com/)<br>
 
 <img src="cat.gif" width="20" />&nbsp;&nbsp;&nbsp; Open Source Engineer in my spare time <br>
 
