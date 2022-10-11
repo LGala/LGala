@@ -1,7 +1,5 @@
 <div align='center'>
 
-# Hi there! <img src="hand.gif" width="5%">
-
 <img src='octo.gif' width='15%'>
 
 <img alt="GIF" src="working.gif" width="25" /> &nbsp; Working as a Software Engineer [@Scalapay](https://www.scalapay.com/)<br>
