@@ -10,6 +10,6 @@
 
 <img src="parrot.gif" width="25" /> &nbsp; BSc in computer science @unipr<br>
 
-&nbsp;&nbsp;<img src="lightning.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; find me on [Linkedin](https://it.linkedin.com/in/lorenzogalafassi)<br>
+&nbsp;&nbsp;<img src="lightning.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; more on [Linkedin](https://it.linkedin.com/in/lorenzogalafassi) and [Twitter](https://twitter.com/LGalaHere)<br>
 
 </div>
