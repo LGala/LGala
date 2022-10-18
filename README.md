@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h1>Hello! This is Lorenzo! 👋</h1>
+<h1>Hi! This is Lorenzo! 👋</h1>
 
 <img src='octo.gif' width='15%'>
 
