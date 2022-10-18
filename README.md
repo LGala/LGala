@@ -1,5 +1,7 @@
 <div align='center'>
 
+<h1>Hello! This is Lorenzo! 👋</h1>
+
 <img src='octo.gif' width='15%'>
 
 <img alt="GIF" src="working.gif" width="25" /> &nbsp; Software Engineer [@Scalapay](https://www.scalapay.com/) during the day<br>
