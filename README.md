@@ -6,7 +6,7 @@
 
 <img src="cat.gif" width="20" />&nbsp;&nbsp;&nbsp; Open Source Engineer in my spare time <br>
 
-<img src="cat_2.gif" width="25" />&nbsp;&nbsp; Creator and Solo Maintainer [@Icaro](https://github.com/Icaro-lang)<br>
+<img src="cat_2.gif" width="25" />&nbsp;&nbsp; Creator and Solo Maintainer [@Icaro](https://github.com/icarolang)<br>
 
 <img src="parrot.gif" width="25" /> &nbsp; BSc computer science [@unipr](https://www.unipr.it/en)<br>
 
