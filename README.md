@@ -4,8 +4,6 @@
 
 <img alt="GIF" src="working.gif" width="25" /> &nbsp; Software Engineer [@Scalapay](https://www.scalapay.com/) during the day<br>
 
-<img src="cat.gif" width="20" />&nbsp;&nbsp;&nbsp; Open Source Engineer in my spare time <br>
-
 <img src="cat_2.gif" width="25" />&nbsp;&nbsp; Creator and Solo Maintainer [@Icaro](https://github.com/icaroland)<br>
 
 <img src="parrot.gif" width="25" /> &nbsp; BSc computer science [@unipr](https://www.unipr.it/en)<br>
